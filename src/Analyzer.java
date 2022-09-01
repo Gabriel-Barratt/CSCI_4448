@@ -155,7 +155,7 @@ public class Analyzer
     }
 
     static double max_occurrences(double[] temp)        //same logic as the mode, but now we return
-    {                                                   //the second counter
+    {                                                   //the counter
         ArrayList<Double> mode = new ArrayList<Double>();
         double counter = 0;
         double counter_2 = 0;
