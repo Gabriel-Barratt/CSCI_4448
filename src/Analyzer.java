@@ -39,6 +39,7 @@ public class Analyzer
         return input;
     }
 
+
     //source: https://www.geeksforgeeks.org/median/
     static double median(double[] lst)
     {

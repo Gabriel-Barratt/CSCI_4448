@@ -40,6 +40,7 @@ public class Reader
         return new String (tempArray);
     }
 
+
     //https://stackoverflow.com/questions/13827654/how-can-i-get-a-char-array-in-reverse-order
     //https://www.geeksforgeeks.org/java-util-arrays-copyofrange-java/
     static String palindrome(String args)
