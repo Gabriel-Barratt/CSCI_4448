@@ -183,6 +183,6 @@ public class Analyzer
         System.out.println("Maximum Occurrences:");
         System.out.println("Value: " + mode);
         System.out.print("Count: ");
-        return counter_2;
+        return counter;
     }
 }
