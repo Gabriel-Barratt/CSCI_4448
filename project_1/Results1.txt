@@ -1,0 +1,27 @@
+[70.0, 123.0, 159.0, 132.0, 132.0, 25.0, 0.0]
+Enter a number: 
+
+Median: 4.0
+Mean: 91.57142857142857
+Mode: [132.0]
+Variance: 3155.1020408163267
+Standard Deviation: 56.17029500382143
+Minimum Value: 0.0
+Maximum Value: 159.0
+Maximum Occurrences:
+Value: [132.0]
+Count: 2.0
+
+[-1.1, 1.789, 1.598, -1.1, 1.789, 123456.0]
+Enter a number: 
+
+Median: 1.6935
+Mean: 20576.496
+Mode: [-1.1, 1.789]
+Variance: 2.1168384702577584E9
+Standard Deviation: 46009.112904486195
+Minimum Value: -1.1
+Maximum Value: 123456.0
+Maximum Occurrences:
+Value: [-1.1, 1.789]
+Count: 2.0
